@@ -1,1 +1,1 @@
-Weight classifier based on daily consumption habits
+Weight classifier based on lifestyle and daily consumption habits
