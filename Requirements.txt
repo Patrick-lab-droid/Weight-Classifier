@@ -1,0 +1,12 @@
+matplotlib==3.9.2
+numpy==2.2.5
+pandas==2.2.3
+scikit-learn==1.4.2
+seaborn==0.13.2
+xgboost==1.7.6
+dill==0.3.7
+fastapi==0.111.2
+pydantic==2.7.0
+uvicorn==0.23.2
+streamlit==1.30.0
+requests==2.32.0
